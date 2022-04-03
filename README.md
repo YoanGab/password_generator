@@ -7,7 +7,8 @@ This is a simple password generator that generates a random password of a given 
 ## Installation
 
 ```
-> Clone the repository
+> git clone git@github.com:YoanGab/password_generator.git
+> cd password_generator
 > pip3 install virtualenv
 > virtualenv password_generator --python=python3.9
 > source password_generator/bin/activate
@@ -21,3 +22,9 @@ This is a simple password generator that generates a random password of a given 
 ```
 
 Go to http://localhost:5000/ to see the application.
+
+
+## Hosting
+
+Project is hosted on Heroku.  
+https://password-generator-website.herokuapp.com/
